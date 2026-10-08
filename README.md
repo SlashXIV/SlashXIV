@@ -1,16 +1,57 @@
-# 💫 About Me:
-Currently, I'm dedicating my time to working on an exciting web project called ReadSpot, while juggling between front-end and back-end development.<br><br>I'm eager to collaborate on innovative IT projects, but I'm also open to exploring other areas within the world of technology.<br><br>I'd appreciate assistance in delving into advanced computer science concepts, whether it's programming, software development, or other fields in tech.<br><br>Currently, I'm immersing myself in learning new computer technologies, with a particular emphasis on React.<br><br>Feel free to ask me questions about programming.<br><br>Beyond coding, I take pleasure in exploring various genres of music and dedicating time to the gym to maintain a well-rounded lifestyle
+<a href="https://gabrielifrim.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img alt="Gabriel Ifrim — consultant @ SII · software · data · automation" src="assets/banner-dark.svg" width="100%">
+  </picture>
+</a>
 
+<p align="center"><code>consultant @ SII (from Nov. 2026)</code> · <code>Bordeaux, FR</code> · <a href="https://gabrielifrim.com"><code>gabrielifrim.com</code></a></p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/slashxiv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/slashxiv) 
+### `> whoami`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+Software engineer with an M.Sc. in Computer Science (Image & Sound) from the University of Bordeaux.
+I build automation and data tools for demanding industrial environments — most recently electromagnetic-simulation archiving and RF test automation at **Safran Data Systems** — along with Android apps and projects you can actually play with in the browser.
+Joining **SII** as a consultant in November 2026.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### `> ls specimens/`
+
+| № | Specimen | What it is | Stack | |
+|:-:|---|---|---|---|
+| 01 | **Topo** | On-device climbing-hold detection, beta replay and 3D relief from a single photo | Kotlin · C++ · ONNX · YOLO11n | [▶ play](https://gabrielifrim.com/projets/topo) |
+| 02 | **Kalos** | Offline nutrition & training tracker for Android | Kotlin · Compose · Room · Hilt | [▶ play](https://gabrielifrim.com/projets/kalos) · [code](https://github.com/SlashXIV/kalos-app) |
+| 03 | **Amazons** | Game of the Amazons with an alpha-beta AI and a view of what it's thinking | Python → TypeScript | [▶ play](https://gabrielifrim.com/projets/amazones-ia) |
+| 04 | **Takiwizu** | Takuzu solver & generator — the original C engine, compiled to WebAssembly | C · wasm | [▶ play](https://gabrielifrim.com/projets/takiwizu) · [code](https://github.com/SlashXIV/takiwizu) |
+| 05 | **brut** | Unprocessed audio recorder for Android — 16/24/32-bit WAV, USB-C mics, VU meters | Kotlin | [code](https://github.com/SlashXIV/brut) |
+| 06 | **Popote** | Recipe manager for Android | .NET MAUI · EF Core · SQLite | [code](https://github.com/SlashXIV/Popote) |
+
+### `> stack`
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,c,cpp,java,ts,kotlin,go,bash&theme=light">
+  <img alt="Python, C, C++, Java, TypeScript, Kotlin, Go, Bash" src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,kotlin,go,bash&theme=dark" height="40">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,tailwind,threejs&theme=light">
+  <img alt="React, Next.js, Node.js, Express, Vue, Tailwind CSS, Three.js" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vue,tailwind,threejs&theme=dark" height="40">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,docker,linux,git,gitlab&theme=light">
+  <img alt="PostgreSQL, SQLite, MongoDB, Docker, Linux, Git, GitLab" src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,docker,linux,git,gitlab&theme=dark" height="40">
+</picture>
+
+<sub><code>languages</code> · <code>web</code> · <code>data & tooling</code></sub>
+
+### `> contact`
+
+[![Website](https://img.shields.io/badge/gabrielifrim.com-0d0f12?style=for-the-badge&logo=googlechrome&logoColor=45b08c)](https://gabrielifrim.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0f12?style=for-the-badge&logoColor=45b08c)](https://www.linkedin.com/in/gabriel-ifrim-pro)
+[![Email](https://img.shields.io/badge/ifrimcontactpro%40gmail.com-0d0f12?style=for-the-badge&logo=gmail&logoColor=45b08c)](mailto:ifrimcontactpro@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0d0f12?style=for-the-badge&logo=discord&logoColor=45b08c)](https://discord.gg/slashxiv)
+[![Twitter](https://img.shields.io/badge/Twitter-0d0f12?style=for-the-badge&logo=x&logoColor=45b08c)](https://twitter.com/slashxiv)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SlashXIV&icon=2&color=9)](https://visitcount.itsvg.in)
 
+<sub><code>frame 01 · depth 0.62 · last update 2026-10</code> — banner generated by <a href="scripts/banner.mjs"><code>scripts/banner.mjs</code></a>, same contour field as the portfolio.</sub>
