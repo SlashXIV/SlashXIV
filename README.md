@@ -20,7 +20,7 @@ Joining **SII** as a consultant in November 2026.
 |:-:|---|---|---|---|
 | 01 | **Topo** | On-device climbing-hold detection, beta replay and 3D relief from a single photo | Kotlin · C++ · ONNX · YOLO11n | [▶ play](https://gabrielifrim.com/projets/topo) |
 | 02 | **Kalos** | Offline nutrition & training tracker for Android | Kotlin · Compose · Room · Hilt | [▶ play](https://gabrielifrim.com/projets/kalos) · [code](https://github.com/SlashXIV/kalos-app) |
-| 03 | **Dromos** | Offline run & walk tracker for Android — GPS with screen off, Kalman-filtered distance, elevation profiles, GPX export, no Google services | Kotlin · Compose · Room · MapLibre | [▶ view](https://gabrielifrim.com/projets/dromos) · [code](https://github.com/SlashXIV/dromos) |
+| 03 | **Dromos** | Offline run & walk tracker for Android — GPS with screen off, Kalman-filtered distance, elevation profiles, GPX export, no Google services | Kotlin · Compose · Room · MapLibre | [▶ play](https://gabrielifrim.com/projets/dromos) · [code](https://github.com/SlashXIV/dromos) |
 | 04 | **Amazons** | Game of the Amazons with an alpha-beta AI and a view of what it's thinking | Python → TypeScript | [▶ play](https://gabrielifrim.com/projets/amazones-ia) |
 | 05 | **Takiwizu** | Takuzu solver & generator — the original C engine, compiled to WebAssembly | C · wasm | [▶ play](https://gabrielifrim.com/projets/takiwizu) · [code](https://github.com/SlashXIV/takiwizu) |
 | 06 | **brut** | Unprocessed audio recorder for Android — 16/24/32-bit WAV, USB-C mics, VU meters | Kotlin | [code](https://github.com/SlashXIV/brut) |
